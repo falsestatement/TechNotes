@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "78285c55445b71bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b294b8d4e7648f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9522074128a76bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ade6db25ec76adf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dcc04dcb25dc799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe299e34c74ec806",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5a91e9c5b756812",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd758b1a3ff41712",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5daa5a11466d26b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "28017cc47d2b4f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d8619808699a63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Global Infrastructure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1211f2185901c83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Global Infrastructure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f18f2558220073c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6c0ea60eb842843",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Global Infrastructure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9522074128a76bb0",
+  "lastOpenFiles": []
+}

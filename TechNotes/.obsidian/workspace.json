@@ -29,28 +29,40 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "5e5ae1475484172e"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fc96d192c2d89c94",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "e1f9689e858e814e",
+            "id": "44a9ffd6e81a9153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
+                "file": "AWS/Technical Essentials/Identity and Access Management.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5dbc924b5f663501"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2825b3c7c0bccc09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47589056983d4588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Technical Essentials/Identity and Access Management.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "5e5ae1475484172e"
+            "group": "5dbc924b5f663501"
           }
         ]
       }
@@ -102,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5daa5a11466d26b6",
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
+                "file": "AWS/Technical Essentials/Identity and Access Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
+                "file": "AWS/Technical Essentials/Identity and Access Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Technical Essentials/Shared Responsibility Model.md"
+                "file": "AWS/Technical Essentials/Identity and Access Management.md"
               }
             }
           }
@@ -187,11 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5176e580f010bd70",
+  "active": "44a9ffd6e81a9153",
   "lastOpenFiles": [
-    "AWS/Technical Essentials/Shared Responsibility Model.md",
     "AWS/Technical Essentials/Interacting with AWS.md",
+    "AWS/Technical Essentials/Identity and Access Management.md",
+    "AWS/Technical Essentials/Shared Responsibility Model.md",
     "AWS/Technical Essentials/Global Infrastructure.md",
+    "way of access.md",
+    "AWS/Technical Essentials/Images/Pasted image 20221220110952.png",
     "AZ.md"
   ]
 }

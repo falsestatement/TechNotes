@@ -4,7 +4,7 @@ Groups of AWS data centers that are acting as backups for one another all in clo
 ## Regions
 Regions are groups of [[#Availabilitity Zones|AZ]]s, which help to create redundant systems to prevent down time even when an entire [[#Availabilitity Zones|AZ]] happens to go down. Regions are also usually named after their physical geographical location, and have region codes that looks like `us-east-1`.
 
-## AWS Region Considerations
+## Region Considerations
 - Compliance
 	- Check for business related compliances issues
 	- Business specific [[##Regions|region]] specifications

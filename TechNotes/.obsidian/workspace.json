@@ -17,27 +17,40 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "4a6729c86cfd4019"
-          }
-        ]
-      },
-      {
-        "id": "1fc721a5213c778d",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "5c85bd9d10d50701",
+            "id": "5176e580f010bd70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Technical Essentials/Interacting with AWS.md",
+                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5e5ae1475484172e"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fc96d192c2d89c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f9689e858e814e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "4a6729c86cfd4019"
+            "group": "5e5ae1475484172e"
           }
         ]
       }
@@ -100,35 +113,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61d8619808699a63",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "AWS/Technical Essentials/Interacting with AWS.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b1211f2185901c83",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AWS/Technical Essentials/Interacting with AWS.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "9f18f2558220073c",
             "type": "leaf",
             "state": {
@@ -140,34 +124,74 @@
             }
           },
           {
-            "id": "c6c0ea60eb842843",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "AWS/Technical Essentials/Interacting with AWS.md"
-              }
-            }
-          },
-          {
             "id": "60c0fcde99e01284",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "84b6a9e02d510735",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe3b41e54cd1f1d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS/Technical Essentials/Shared Responsibility Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e04b58840e36818c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS/Technical Essentials/Shared Responsibility Model.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd393f2e02c24eb6",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5176e580f010bd70",
   "lastOpenFiles": [
-    "AWS/Technical Essentials/Global Infrastructure.md",
+    "AWS/Technical Essentials/Shared Responsibility Model.md",
     "AWS/Technical Essentials/Interacting with AWS.md",
+    "AWS/Technical Essentials/Global Infrastructure.md",
     "AZ.md"
   ]
 }
